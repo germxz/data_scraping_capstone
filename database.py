@@ -1,12 +1,16 @@
 import pandas as pd
 import sqlite3
+import os
+
+# create dir "db" for the database
+os.makedirs('./db', exist_ok=True)
 
 # Load CSVs into DataFrames
 raw_df = pd.read_csv('weather_raw.csv')
 clean_df = pd.read_csv('weather_clean.csv')
 
-# Show before/after
-print("=" * 60)
+# Show before/after (with organization)
+print("=" * 60)  # ============
 print("BEFORE CLEANING (Raw Data):")
 print("=" * 60)
 print(raw_df.head(10))
