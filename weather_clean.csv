@@ -1,48 +1,48 @@
 City,Temperature,Local Time,Hours From Central
-Accra,81,Mon 7:32 pm,5
-Addis Ababa,68,Mon 10:32 pm,8
-Adelaide,60,Tue 5:02 am,-10
-Algiers,73,Mon 8:32 pm,6
-Almaty,73,Tue 12:32 am,10
-Amman,72,Mon 10:32 pm,8
-Amsterdam,61,Mon 9:32 pm,7
-Anadyr,53,Tue 7:32 am,-7
-Anchorage,57,Mon 11:32 am,-3
-Ankara,64,Mon 10:32 pm,8
-Antananarivo,61,Mon 10:32 pm,8
-Asuncion,61,Mon 4:32 pm,2
-Athens,77,Mon 10:32 pm,8
-Atlanta,79,Mon 3:32 pm,1
-Auckland,55,Tue 7:32 am,-7
-Baghdad,100,Mon 10:32 pm,8
-Bangkok,81,Tue 2:32 am,12
-Barcelona,77,Mon 9:32 pm,7
-Beijing,69,Tue 3:32 am,13
-Belgrade,63,Mon 9:32 pm,7
-Bengaluru,73,Tue 1:02 am,10
-Berlin,61,Mon 9:32 pm,7
-Bogota,66,Mon 2:32 pm,0
-Boston,80,Mon 3:32 pm,1
-Brasilia,81,Mon 4:32 pm,2
-Brisbane,60,Tue 5:32 am,-9
-Brussels,64,Mon 9:32 pm,7
-Bucharest,70,Mon 10:32 pm,8
-Budapest,64,Mon 9:32 pm,7
-Buenos Aires,55,Mon 4:32 pm,2
-Cairo,81,Mon 10:32 pm,8
-Calgary,72,Mon 1:32 pm,-1
-Canberra,41,Tue 5:32 am,-9
-Cape Town,54,Mon 9:32 pm,7
-Caracas,86,Mon 3:32 pm,1
-Casablanca,72,Mon 8:32 pm,6
-Chicago,73,Mon 2:32 pm,0
-Copenhagen,61,Mon 9:32 pm,7
-Dallas,83,Mon 2:32 pm,0
-Dar es Salaam,73,Mon 10:32 pm,8
-Darwin,73,Tue 5:02 am,-10
-Denver,71,Mon 1:32 pm,-1
-Detroit,70,Mon 3:32 pm,1
-Dhaka,83,Tue 1:32 am,11
-Doha,97,Mon 10:32 pm,8
-Dubai,90,Mon 11:32 pm,9
-Dublin,59,Mon 8:32 pm,6
+Accra,81,Tue 9:45 pm,5
+Addis Ababa,64,Wed 12:45 am,8
+Adelaide,64,Wed 7:15 am,-10
+Algiers,74,Tue 10:45 pm,6
+Almaty,66,Wed 2:45 am,10
+Amman,72,Wed 12:45 am,8
+Amsterdam,63,Tue 11:45 pm,7
+Anadyr,56,Wed 9:45 am,-7
+Anchorage,60,Tue 1:45 pm,-3
+Ankara,64,Wed 12:45 am,8
+Antananarivo,52,Wed 12:45 am,8
+Asuncion,64,Tue 6:45 pm,2
+Athens,80,Wed 12:45 am,8
+Atlanta,68,Tue 5:45 pm,1
+Auckland,55,Wed 9:45 am,-7
+Baghdad,84,Wed 12:45 am,8
+Bangkok,79,Wed 4:45 am,12
+Barcelona,77,Tue 11:45 pm,7
+Beijing,66,Wed 5:45 am,13
+Belgrade,64,Tue 11:45 pm,7
+Bengaluru,73,Wed 3:15 am,10
+Berlin,63,Tue 11:45 pm,7
+Bogota,61,Tue 4:45 pm,0
+Boston,78,Tue 5:45 pm,1
+Brasilia,77,Tue 6:45 pm,2
+Brisbane,59,Wed 7:45 am,-9
+Brussels,63,Tue 11:45 pm,7
+Bucharest,66,Wed 12:45 am,8
+Budapest,70,Tue 11:45 pm,7
+Buenos Aires,64,Tue 6:45 pm,2
+Cairo,77,Wed 12:45 am,8
+Calgary,55,Tue 3:45 pm,-1
+Canberra,48,Wed 7:45 am,-9
+Cape Town,54,Tue 11:45 pm,7
+Caracas,84,Tue 5:45 pm,1
+Casablanca,70,Tue 10:45 pm,6
+Chicago,75,Tue 4:45 pm,0
+Copenhagen,55,Tue 11:45 pm,7
+Dallas,87,Tue 4:45 pm,0
+Dar es Salaam,75,Wed 12:45 am,8
+Darwin,73,Wed 7:15 am,-10
+Denver,90,Tue 3:45 pm,-1
+Detroit,63,Tue 5:45 pm,1
+Dhaka,84,Wed 3:45 am,11
+Doha,95,Wed 12:45 am,8
+Dubai,86,Wed 1:45 am,9
+Dublin,59,Tue 10:45 pm,6
