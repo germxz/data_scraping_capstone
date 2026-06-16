@@ -1,0 +1,2 @@
+Streamlit Community Cloud App URL:
+https://datascrapingcapstone-germxz.streamlit.app/
